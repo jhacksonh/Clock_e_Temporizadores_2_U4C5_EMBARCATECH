@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Clock_e_Temporizadores_2_U4C5_EMBARCATECH.uf2'
+elf = 'build/Clock_e_Temporizadores_2_U4C5_EMBARCATECH.elf'

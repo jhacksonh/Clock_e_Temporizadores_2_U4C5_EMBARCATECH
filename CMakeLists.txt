@@ -56,7 +56,7 @@ target_include_directories(Clock_e_Temporizadores_2_U4C5_EMBARCATECH PRIVATE
 # Add any user requested libraries
 target_link_libraries(Clock_e_Temporizadores_2_U4C5_EMBARCATECH 
         hardware_clocks
-        
+        hardware_timer
         )
 
 pico_add_extra_outputs(Clock_e_Temporizadores_2_U4C5_EMBARCATECH)
